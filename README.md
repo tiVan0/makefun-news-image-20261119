@@ -1,8 +1,8 @@
 # Thursday 19 November 2026 in 43 stories
 
-![news-image-20261119](https://make.fun/badge/news-image-20261119.svg)
-![rank](https://make.fun/badge/news-image-20261119/tiVan0/makefun-news-image-20261119/rank.svg)
-![reward](https://make.fun/badge/news-image-20261119/tiVan0/makefun-news-image-20261119/reward.svg)
+[![news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/tiVan0/makefun-news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/tiVan0/makefun-news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
 A one-page newspaper front page for Thursday 19 November 2026: 3 lead
 stories (the first Trump–Xi–Putin trilateral in Shenzhen, GTA VI's midnight
